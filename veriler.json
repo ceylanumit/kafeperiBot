@@ -1,0 +1,88 @@
+[
+{
+  "id": 1,
+  "user_input": "Merhaba, nasılsın?",
+  "bot_response": "Benim adım Peri. Ne arzu edersiniz? Örneğin aperatif bir şeyler veya meşrubat isteyebilirsiniz.",
+  "tags": ["selam", "soru"]
+},
+{
+  "id": 2,
+  "user_input": "Kahvaltılar",
+  "bot_response": "\n\n ★★★ Kahvaltı Listesi ★★★  \n Serpme Kahvaltı \n Kahvaltı Tabağı\n Kuymak\n Sucuklu Yumurta\n Sahanda Sucuk\n Kavurmalı Yumurta\n Paçanga Böreği\n Menemen\n Pişi\n Omlet\n Sigara Böreği\n Patates Kızartması\n",
+  "tags": ["Kahvaltı", "Kahvaltı Çeşitleri"]
+},
+{
+  "id": 3,
+  "user_input": "Burgerler",
+  "bot_response": "\n\n ★★★ Burger Listesi ★★★ \n Alaturca Hamburger\n Cheeseburger\n Chicken Burger\n Dallas Burger\n\n【Burgerlerimiz Patates, Range Sos, Barbekü Sos, Ve İçecek İle Servis Edilir.】\n",
+  "tags": ["Burger", "Burger Çeşitleri"]
+},
+{
+  "id": 4,
+  "user_input": "Tostlar",
+  "bot_response": "\n\n ★★★ Tost Listesi ★★★ \n Kaşarlı Tost \n Karışık Tost\n",
+  "tags": ["Tost", "Tost Çeşitleri"]
+},
+{
+  "id": 5,
+  "user_input": "Gözleme",
+  "bot_response": "\n\n ★★★ Gözleme Listesi ★★★ \n \n Patatesli Gözleme\n Kaşarlı Gözleme\n Karışık Gözleme\n",
+  "tags": ["Gözleme", "Gözleme Çeşitleri"]
+},
+{
+  "id": 6,
+  "user_input": "Aperatifler",
+  "bot_response": "\n\n ★★★ Aperatif Listesi ★★★ \n Parmak Patates\n Elma Dilim Patates\n Sigara Böreği\n Açma\n Soğan Halkası\n Parmak Tavuk\n",
+  "tags": ["Aperatif", "Aperatif Çeşitleri"]
+},
+{
+  "id": 7,
+  "user_input": "Salata",
+  "bot_response": "\n\n ★★★ Salata Listesi ★★★ \n Akdeniz Salatası\n Çoban Salatası\n Yeşil Salata\n Rokalı Salata\n Kinoa Salatası\n Mevsim Salatası\n Ton Balıklı Salata\n Cevizli Salata\n",
+  "tags": ["Salata", "Salata Çeşitleri"]
+},
+{
+  "id": 8,
+  "user_input": "Makarnalar",
+  "bot_response": "\n\n ★★★ Makarna Listesi ★★★ \n  Spagetti\n  Penne\n  Farfalle (kelebek makarna)\n  Fusilli\n  Linguine\n  Rigatoni\n  Tagliatelle\n",
+  "tags": ["Makarna ", "Makarna Çeşitleri"]
+},
+{
+  "id": 10,
+  "user_input": "Ekmek Arası",
+  "bot_response": "\n\n ★★★ Ekmek Arası Listesi ★★★ \n Balık Ekmek\n Köfte Ekmek\n Sucuk Ekmek\n",
+  "tags": ["Ekmek Arası", "Ekmek Arası Çeşitleri"]
+},
+{
+  "id": 11,
+  "user_input": "Tatlılar",
+  "bot_response": "\n\n ★★★ Tatlı Listesi ★★★ \n Profiterol\n Cheesecake\n Baklava\n Tiramisu\n İrmik Helvası\n Brownie\n Muhallebi\n Magnolia\n Kadayıf\n Ekmek Kadayıfı\n Trileçe\n Şekerpare\n Şöbiyet\n Sufle\n Lokma\n Künefe\n Revani\n Katmer\n Krem Karamel\n Ayva Tatlısı\n",
+  "tags": ["Tatlı ", "Tatlı Çeşitleri"]
+},
+{
+  "id": 12,
+  "user_input": "Kahveler",
+  "bot_response": "\n\n ★★★ Kahve Listesi ★★★ \n Espresso\n Americano\n Latte\n Cappuccino\n Macchiato\n Mocha\n Flat White\n Turkish Coffee (Türk Kahvesi)\n Affogato\n Lungo\n Ristretto\n Cortado\n Irish Coffee\n Viennese Coffee\n Frappe\n",
+  "tags": ["Kahve ", "Kahve Çeşitleri"]
+},
+{
+  "id": 13,
+  "user_input": "Meşrubatlar",
+  "bot_response": "\n\n ★★★ Meşrubat Listesi ★★★ \n Coca Cola\n Coca Coca Zero\n Fanta\n Sprite\n Fuse Tea\n Meyve Suyu\n Soda Çeşitleri\n Churcill\n Ayran\n Su\n Şalgam\n Bardak Çay\n",
+  "tags": ["Meşrubat", " Çeşitleri"]
+},
+{
+  "id": 14,
+  "user_input": "Milkshake",
+  "bot_response": "\n\n ★★★ Milkshake Listesi ★★★ \n Çikolata\n Karamel\n Vanilya\n Çilek\n",
+  "tags": ["Milkshake", "Milkshake Çeşitleri"]
+},
+
+{
+  "id": 15,
+  "user_input": "Menü",
+  "bot_response": "\n\n ★★★ Tam Menü ★★★ \n\nKahvaltılar: \n - Serpme Kahvaltı\n - Kahvaltı Tabağı\n - Kuymak\n - Sucuklu Yumurta\n - Sahanda Sucuk\n - Kavurmalı Yumurta\n - Paçanga Böreği\n - Menemen\n - Pişi\n - Omlet\n - Sigara Böreği\n - Patates Kızartması\n\nBurgerler: \n - Alaturca Hamburger\n - Cheeseburger\n - Chicken Burger\n - Dallas Burger\n\n【Burgerlerimiz Patates, Range Sos, Barbekü Sos, Ve İçecek İle Servis Edilir.】\n\nTostlar: \n - Kaşarlı Tost \n - Karışık Tost\n\nGözleme: \n - Patatesli Gözleme\n - Kaşarlı Gözleme\n - Karışık Gözleme\n\nAperatifler: \n - Parmak Patates\n - Elma Dilim Patates\n - Sigara Böreği\n - Açma\n - Soğan Halkası\n - Parmak Tavuk\n\nSalata: \n - Akdeniz Salatası\n - Çoban Salatası\n - Yeşil Salata\n - Rokalı Salata\n - Kinoa Salatası\n - Mevsim Salatası\n - Ton Balıklı Salata\n - Cevizli Salata\n\nMakarnalar: \n - Spagetti\n - Penne\n - Farfalle (kelebek makarna)\n - Fusilli\n - Linguine\n - Rigatoni\n - Tagliatelle\n\nEkmek Arası: \n - Balık Ekmek\n - Köfte Ekmek\n - Sucuk Ekmek\n\nTatlılar: \n - Profiterol\n - Cheesecake\n - Baklava\n - Tiramisu\n - İrmik Helvası\n - Brownie\n - Muhallebi\n - Magnolia\n - Kadayıf\n - Ekmek Kadayıfı\n - Trileçe\n - Şekerpare\n - Şöbiyet\n - Sufle\n - Lokma\n - Künefe\n - Revani\n - Katmer\n - Krem Karamel\n - Ayva Tatlısı\n\nKahveler: \n - Espresso\n - Americano\n - Latte\n - Cappuccino\n - Macchiato\n - Mocha\n - Flat White\n - Turkish Coffee (Türk Kahvesi)\n - Affogato\n - Lungo\n - Ristretto\n - Cortado\n - Irish Coffee\n - Viennese Coffee\n - Frappe\n\nMeşrubatlar: \n - Coca Cola\n - Coca Coca Zero\n - Fanta\n - Sprite\n - Fuse Tea\n - Meyve Suyu\n - Soda Çeşitleri\n - Churcill\n - Ayran\n - Su\n - Şalgam\n - Bardak Çay\n\nMilkshake: \n - Çikolata\n - Karamel\n - Vanilya\n - Çilek\n",  
+  "tags": ["Menü", "menu"]
+}
+  ]
+  
